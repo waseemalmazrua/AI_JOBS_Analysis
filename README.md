@@ -86,6 +86,3 @@ Data collected via **ethical web scraping** from leading job platforms:
 
 ---
 
-### 📊 Want to Learn More?
-
-Explore the full notebook and try running the model with your own input features to predict AI job salaries based on experience level, skills, and job type!
